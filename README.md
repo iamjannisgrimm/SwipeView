@@ -1,5 +1,4 @@
 # SwipeView
-Jannis Grimm
 
 A simple SwiftUI project that allows you to swipe between three views, similar to snapchats interface. 
 It also features a button control to access a certain view more quickly.
